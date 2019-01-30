@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\bin\Debug\SumOdd-Array.exe.config
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\bin\Debug\SumOdd-Array.exe
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\bin\Debug\SumOdd-Array.pdb
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\obj\Debug\SumOdd-Array.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\obj\Debug\SumOdd-Array.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\obj\Debug\SumOdd-Array.exe
+C:\Users\Student\Desktop\TechnicalPractice\SumOdd-Array\SumOdd-Array\obj\Debug\SumOdd-Array.pdb

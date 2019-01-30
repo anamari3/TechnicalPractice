@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\bin\Debug\RemoveDuplicateString.exe.config
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\bin\Debug\RemoveDuplicateString.exe
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\bin\Debug\RemoveDuplicateString.pdb
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\obj\Debug\RemoveDuplicateString.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\obj\Debug\RemoveDuplicateString.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\obj\Debug\RemoveDuplicateString.exe
+C:\Users\Student\Desktop\TechnicalPractice\RemoveDuplicateString\RemoveDuplicateString\obj\Debug\RemoveDuplicateString.pdb
